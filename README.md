@@ -27,8 +27,10 @@ npm run e2e
 npm test
 ```
 ### 在线浏览
-<img src="https://github.com/hedonghui/lkweixin/blob/master/screenshots/1520046860.png" width="365" height="365"/>
+<img src="https://github.com/hedonghui/lkweixin/blob/master/screenshots/1520046860.png" width="200" height="200"/>
 ### 部分截图
+
+
 <img src="https://github.com/hedonghui/lkweixin/blob/master/screenshots/195077506439882614.jpg" width="365" height="619"/> <img src="https://github.com/hedonghui/lkweixin/blob/master/screenshots/671567311098562429.jpg" width="365" height="619"/>
 <img src="https://github.com/hedonghui/lkweixin/blob/master/screenshots/791620482082748905.jpg" width="365" height="619"/> <img src="https://github.com/hedonghui/lkweixin/blob/master/screenshots/889959018965828250.jpg" width="365" height="619"/>
 
